@@ -17,4 +17,5 @@ Execute the following commands.
   
     line 30  img_path = 'input_image_path'
 
-Output file is saved as Output_faces.jpg in the root directory.
+68 face landmarks for each face in the image is saved as Output_faces.jpg in the root of this repository.
+The curve for jawlines is saved as Jawlines.jpg in the root of this repository.
