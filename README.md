@@ -15,6 +15,6 @@ Execute the following commands.
   ### Test a new image
   Change the image path from main function.
   
-  line 30  img_path = 'input_image_path'
+    line 30  img_path = 'input_image_path'
 
-output file is saved as Output_faces.jpg in the root directory.
+Output file is saved as Output_faces.jpg in the root directory.
